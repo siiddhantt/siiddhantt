@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&width=435&lines=Hi+there!++%F0%9F%91%80;This+is+Siddhant.;Nice+seeing+you+%3A))](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&width=435&lines=Hi+there!++%F0%9F%91%80;This+is+Siddhant.;Nice+seeing+you+%E3%83%83)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently working remotely as a Full Stack Intern <br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning C++ and Machine Learning<br>💬 Ask me about Movies
