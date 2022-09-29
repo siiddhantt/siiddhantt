@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full Stack Intern remotely<br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning C++ and Machine Learning<br>💬 Ask me about Movies
+🔭 I’m currently working remotely as a Full Stack Intern <br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning C++ and Machine Learning<br>💬 Ask me about Movies
 
 
 ## 🌐 Socials:
