@@ -1,6 +1,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&width=435&lines=Hi+there!++%F0%9F%91%80;This+is+Siddhant.;Nice+seeing+you+%E3%83%83)](https://git.io/typing-svg)
 
 # 💫 About Me:
+<img width="270" height="270" src="https://user-images.githubusercontent.com/47355538/193230350-d371ef15-c4c0-4bba-80c7-c6fb88dce0a5.gif" align=right>
 🔭 I’m currently working remotely as a Full Stack Intern <br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning C++ and Machine Learning<br>💬 Ask me about Movies
 
 
