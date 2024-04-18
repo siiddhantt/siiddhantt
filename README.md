@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <img width="180" height="180" src="https://user-images.githubusercontent.com/47355538/193230350-d371ef15-c4c0-4bba-80c7-c6fb88dce0a5.gif" align=right>
-🔭 I’m currently working remotely as a Full Stack Intern <br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning C++ and Machine Learning<br>💬 Ask me about Movies and Video Games
+🔭 I’m currently working remotely as a Software Engineer <br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning C++ and Machine Learning<br>💬 Ask me about Movies and Video Games
 
 
 ## 🌐 Socials:
