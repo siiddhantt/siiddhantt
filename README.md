@@ -15,4 +15,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-rai21) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/siiddhantt)
 
-![Visitor Count](https://githitbox.duckdns.org/badge/siiddhantt?style=counter&v=2)
+<img src="https://githitbox.duckdns.org/badge/siiddhantt?style=counter&v=2" alt="Counter" width="250"/>
