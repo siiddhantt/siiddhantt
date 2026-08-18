@@ -1,30 +1,27 @@
 <img src="./assets/peepo.gif" align="right" width="205" alt="peepo happily typing at a computer">
 
-# hey, i'm siddhant 👋
+# hey, i'm siddhant.
 
-```text
-backend engineer by trade
-open-source side-quest enjoyer
-currently making AI systems less mysterious in production
-```
+I'm a software engineer working mostly on backend systems and developer tools.
 
-I like the part of software where a vague idea has to survive contact with real users,
-real data, flaky dependencies, and an alert firing at 2 AM.
-
-Right now I am building around **backend systems, developer tooling, observability,
-and AI infrastructure**. I care about useful software, evidence over vibes, and code
-that another human can operate after the demo ends.
+I spent the last few years building DocsGPT and contributing to open-source projects
+around data, authorization, and AI infrastructure. I mostly work in Python, Go, and
+TypeScript, and prefer small teams where engineering decisions stay close to the product.
 
 <br clear="right">
 
 <p align="center">
-  <a href="https://s1d.is-a.dev"><img src="https://img.shields.io/badge/portfolio-111827?style=flat-square&logo=vercel&logoColor=64ffda" alt="portfolio"></a>
-  <a href="https://s1d.is-a.dev/resume.pdf"><img src="https://img.shields.io/badge/resume-111827?style=flat-square&logo=readdotcv&logoColor=64ffda" alt="resume"></a>
-  <a href="https://www.linkedin.com/in/siddhant-rai21"><img src="./assets/linkedin-badge.svg" alt="linkedin"></a>
-  <a href="mailto:siddhant.rai.5686@gmail.com"><img src="https://img.shields.io/badge/say_hi-111827?style=flat-square&logo=gmail&logoColor=64ffda" alt="email"></a>
+  <a href="https://s1d.is-a.dev"><img src="./assets/button-portfolio.svg" alt="portfolio"></a>
+  <a href="https://s1d.is-a.dev/resume.pdf"><img src="./assets/button-resume.svg" alt="resume"></a>
+  <a href="https://www.linkedin.com/in/siddhant-rai21"><img src="./assets/button-linkedin.svg" alt="linkedin"></a>
+  <a href="mailto:siddhant.rai.5686@gmail.com"><img src="./assets/button-email.svg" alt="email"></a>
 </p>
 
-## `~/live`
+<p align="center">
+  <img src="./assets/pixel-divider.svg" width="100%" alt="">
+</p>
+
+## <img src="./assets/icon-monitor.svg" width="24" alt=""> `~/live`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/live-dark.svg">
@@ -36,7 +33,7 @@ that another human can operate after the demo ends.
   <sub>Generated from the GitHub API. The workflow refreshes it only when the data changes.</sub>
 </p>
 
-## `~/things-i-have-been-cooking`
+## <img src="./assets/icon-folder.svg" width="24" alt=""> `~/things-i-have-been-cooking`
 
 <table>
   <tr>
@@ -58,7 +55,7 @@ that another human can operate after the demo ends.
   </tr>
 </table>
 
-## `~/open-source-side-quests`
+## <img src="./assets/icon-network.svg" width="24" alt=""> `~/open-source-side-quests`
 
 - taught [Coral](https://github.com/withcoral/coral) to speak to more APIs and live data sources
 - made [OLake](https://github.com/datazip-inc/olake) database connectors friendlier to real infrastructure
@@ -70,7 +67,7 @@ that another human can operate after the demo ends.
   <a href="https://github.com/pulls?q=is%3Apr+author%3Asiiddhantt+is%3Amerged">all merged pull requests -&gt;</a>
 </p>
 
-## `~/toolbox`
+## <img src="./assets/icon-toolbox.svg" width="24" alt=""> `~/toolbox`
 
 ```text
 languages   Python / Go / TypeScript / JavaScript

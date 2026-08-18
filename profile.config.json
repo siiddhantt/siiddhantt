@@ -1,23 +1,25 @@
 {
   "username": "siiddhantt",
-  "featuredProjects": [
+  "featuredWork": [
     {
-      "repo": "mizaaj",
-      "tagline": "Private fit memory grounded in evidence and real outcomes."
+      "repo": "arc53/DocsGPT",
+      "label": "DocsGPT",
+      "focus": "Product and AI platform"
     },
     {
-      "repo": "margintrace",
-      "tagline": "Outcome economics and runtime guardrails for AI workflows."
+      "repo": "withcoral/coral",
+      "label": "Coral",
+      "focus": "Data source integrations"
     },
     {
-      "repo": "reefwatch",
-      "tagline": "Evidence-first incident investigation across production sources."
+      "repo": "datazip-inc/olake",
+      "label": "OLake",
+      "focus": "Database connectors"
+    },
+    {
+      "repo": "openfga/openfga",
+      "label": "OpenFGA",
+      "focus": "Concurrency and filtering"
     }
-  ],
-  "contributionRepos": [
-    { "repo": "withcoral/coral", "label": "coral" },
-    { "repo": "datazip-inc/olake", "label": "olake" },
-    { "repo": "openfga/openfga", "label": "openfga" },
-    { "repo": "mcp-use/mcp-use", "label": "mcp-use" }
   ]
 }
