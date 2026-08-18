@@ -38,12 +38,12 @@ TypeScript, and prefer teams where engineering decisions stay close to the produ
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/siiddhantt/mizaaj">Mizaaj</a> <sup><a href="https://mizaaj-ai.vercel.app">demo</a></sup></h3>
+      <h3><a href="https://github.com/siiddhantt/mizaaj">Mizaaj</a> <sup><a href="https://mizaaj-landing.vercel.app">demo</a></sup></h3>
       <p>A private fit-memory assistant grounded in product evidence, personal preferences, and real purchase outcomes.</p>
       <code>Python</code> <code>FastAPI</code> <code>Postgres</code> <code>Cognee</code>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/siiddhantt/margintrace">MarginTrace</a> <sup><a href="https://margintrace-nu.vercel.app">demo</a></sup></h3>
+      <h3><a href="https://github.com/siiddhantt/margintrace">MarginTrace</a> </h3>
       <p>Measures verified outcomes, cost, waste, and policy decisions across AI workflows.</p>
       <code>TypeScript</code> <code>OTel</code> <code>SigNoz</code>
     </td>
@@ -70,16 +70,16 @@ TypeScript, and prefer teams where engineering decisions stay close to the produ
 ## <img src="./assets/icon-toolbox.svg" width="24" alt=""> `~/toolbox`
 
 ```text
-languages   Python / Go / TypeScript / JavaScript
+languages   Python / Go / TypeScript / JavaScript / C++
 backend     FastAPI / Node.js / REST / GraphQL / event-driven systems
 data        PostgreSQL / Redis / MongoDB / SQLite
 shipping    Docker / Kubernetes / AWS / GitHub Actions
-signals     OpenTelemetry / SigNoz / traces / logs / metrics
+signals     OpenTelemetry / traces / logs / metrics
 ```
 
 <details>
   <summary><strong>when I am not coding</strong></summary>
   <br>
 
-  Mostly watching films, listening to music, or playing video games.
+  Mostly binge watching, listening to music, or playing video games🤸
 </details>
