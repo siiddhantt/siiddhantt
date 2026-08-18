@@ -1,18 +1,85 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=3CF718&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
+<img src="./assets/peepo.gif" align="right" width="205" alt="peepo happily typing at a computer">
 
-### 👨🏻‍💻 &nbsp;About Me
+# hey, i'm siddhant.
 
-<img width="180" height="180" src="https://user-images.githubusercontent.com/47355538/193230350-d371ef15-c4c0-4bba-80c7-c6fb88dce0a5.gif" align=right>
+I'm a software engineer working mostly on backend systems and developer tools.
 
-✨ [s1d.is-a.dev](https://s1d.is-a.dev) <br> 💡 I’m currently working remotely as a Software Engineer <br> 👥 I’m always looking to collaborate on new projects, so feel free to reach out<br>🌱 Graduated from IIITJ in 2024 and currently learning about AI and Machine Learning<br>💬 Ask me about Movies, Music and Video Games!
+I spent the last few years building DocsGPT and contributing to open-source projects
+around data, authorization, and AI infrastructure. I mostly work in Python, Go, and
+TypeScript, and prefer small teams where engineering decisions stay close to the product.
 
-### 🛠 &nbsp;Tech Stack
+<br clear="right">
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <a href="https://s1d.is-a.dev"><img src="./assets/button-portfolio.svg" alt="portfolio"></a>
+  <a href="https://s1d.is-a.dev/resume.pdf"><img src="./assets/button-resume.svg" alt="resume"></a>
+  <a href="https://www.linkedin.com/in/siddhant-rai21"><img src="./assets/button-linkedin.svg" alt="linkedin"></a>
+  <a href="mailto:siddhant.rai.5686@gmail.com"><img src="./assets/button-email.svg" alt="email"></a>
+</p>
 
+<p align="center">
+  <img src="./assets/pixel-divider.svg" width="100%" alt="">
+</p>
 
-### 📫 &nbsp;Socials
+## <img src="./assets/icon-monitor.svg" width="24" alt=""> `~/live`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-rai21) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/siiddhantt)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/live-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/live-light.svg">
+  <img src="./assets/live-light.svg" width="100%" alt="Live GitHub status with repositories, pull requests, projects, and open-source activity">
+</picture>
 
-<img src="https://githitbox.duckdns.org/badge/siiddhantt?style=counter&v=2" alt="Counter" width="250"/>
+<p align="center">
+  <sub>Generated from the GitHub API. The workflow refreshes it only when the data changes.</sub>
+</p>
+
+## <img src="./assets/icon-folder.svg" width="24" alt=""> `~/things-i-have-been-cooking`
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/siiddhantt/mizaaj">Mizaaj</a> <sup><a href="https://mizaaj-ai.vercel.app">demo</a></sup></h3>
+      <p>A private fit-memory assistant grounded in product evidence, personal preferences, and real purchase outcomes.</p>
+      <code>Python</code> <code>FastAPI</code> <code>Postgres</code> <code>Cognee</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/siiddhantt/margintrace">MarginTrace</a> <sup><a href="https://margintrace-nu.vercel.app">demo</a></sup></h3>
+      <p>Measures verified outcomes, cost, waste, and policy decisions across AI workflows.</p>
+      <code>TypeScript</code> <code>OTel</code> <code>SigNoz</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/siiddhantt/reefwatch">ReefWatch</a> <sup><a href="https://reefwatch-coral.vercel.app">demo</a></sup></h3>
+      <p>Investigates incidents across production sources through runtime discovery and read-only SQL.</p>
+      <code>Python</code> <code>Coral</code> <code>MCP</code>
+    </td>
+  </tr>
+</table>
+
+## <img src="./assets/icon-network.svg" width="24" alt=""> `~/open-source-side-quests`
+
+- taught [Coral](https://github.com/withcoral/coral) to speak to more APIs and live data sources
+- made [OLake](https://github.com/datazip-inc/olake) database connectors friendlier to real infrastructure
+- tightened concurrency and tuple filtering in [OpenFGA](https://github.com/openfga/openfga)
+- improved provider compatibility and test hygiene in [mcp-use](https://github.com/mcp-use/mcp-use)
+- shipped a lot of agent, ingestion, API, and product work in [DocsGPT](https://github.com/arc53/DocsGPT)
+
+<p align="right">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Asiiddhantt+is%3Amerged">all merged pull requests -&gt;</a>
+</p>
+
+## <img src="./assets/icon-toolbox.svg" width="24" alt=""> `~/toolbox`
+
+```text
+languages   Python / Go / TypeScript / JavaScript
+backend     FastAPI / Node.js / REST / GraphQL / event-driven systems
+data        PostgreSQL / Redis / MongoDB / SQLite
+shipping    Docker / Kubernetes / AWS / GitHub Actions
+signals     OpenTelemetry / SigNoz / traces / logs / metrics
+```
+
+<details>
+  <summary><strong>when I am not coding</strong></summary>
+  <br>
+
+  Mostly watching films, listening to music, or playing video games.
+</details>

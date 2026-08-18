@@ -1,0 +1,25 @@
+{
+  "username": "siiddhantt",
+  "featuredWork": [
+    {
+      "repo": "arc53/DocsGPT",
+      "label": "DocsGPT",
+      "focus": "Product and AI platform"
+    },
+    {
+      "repo": "withcoral/coral",
+      "label": "Coral",
+      "focus": "Data source integrations"
+    },
+    {
+      "repo": "datazip-inc/olake",
+      "label": "OLake",
+      "focus": "Database connectors"
+    },
+    {
+      "repo": "openfga/openfga",
+      "label": "OpenFGA",
+      "focus": "Concurrency and filtering"
+    }
+  ]
+}
