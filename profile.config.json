@@ -1,0 +1,23 @@
+{
+  "username": "siiddhantt",
+  "featuredProjects": [
+    {
+      "repo": "mizaaj",
+      "tagline": "Private fit memory grounded in evidence and real outcomes."
+    },
+    {
+      "repo": "margintrace",
+      "tagline": "Outcome economics and runtime guardrails for AI workflows."
+    },
+    {
+      "repo": "reefwatch",
+      "tagline": "Evidence-first incident investigation across production sources."
+    }
+  ],
+  "contributionRepos": [
+    { "repo": "withcoral/coral", "label": "coral" },
+    { "repo": "datazip-inc/olake", "label": "olake" },
+    { "repo": "openfga/openfga", "label": "openfga" },
+    { "repo": "mcp-use/mcp-use", "label": "mcp-use" }
+  ]
+}

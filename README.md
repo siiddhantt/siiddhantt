@@ -1,117 +1,88 @@
+<img src="./assets/peepo.gif" align="right" width="205" alt="peepo happily typing at a computer">
+
+# hey, i'm siddhant 👋
+
+```text
+backend engineer by trade
+open-source side-quest enjoyer
+currently making AI systems less mysterious in production
+```
+
+I like the part of software where a vague idea has to survive contact with real users,
+real data, flaky dependencies, and an alert firing at 2 AM.
+
+Right now I am building around **backend systems, developer tooling, observability,
+and AI infrastructure**. I care about useful software, evidence over vibes, and code
+that another human can operate after the demo ends.
+
+<br clear="right">
+
+<p align="center">
+  <a href="https://s1d.is-a.dev"><img src="https://img.shields.io/badge/portfolio-111827?style=flat-square&logo=vercel&logoColor=64ffda" alt="portfolio"></a>
+  <a href="https://s1d.is-a.dev/resume.pdf"><img src="https://img.shields.io/badge/resume-111827?style=flat-square&logo=readdotcv&logoColor=64ffda" alt="resume"></a>
+  <a href="https://www.linkedin.com/in/siddhant-rai21"><img src="./assets/linkedin-badge.svg" alt="linkedin"></a>
+  <a href="mailto:siddhant.rai.5686@gmail.com"><img src="https://img.shields.io/badge/say_hi-111827?style=flat-square&logo=gmail&logoColor=64ffda" alt="email"></a>
+</p>
+
+## `~/live`
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Siddhant Rai, software engineer building reliable backend systems and AI infrastructure" src="./assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/live-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/live-light.svg">
+  <img src="./assets/live-light.svg" width="100%" alt="Live GitHub status with repositories, pull requests, projects, and open-source activity">
 </picture>
 
 <p align="center">
-  <a href="https://s1d.is-a.dev"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=64FFDA"></a>
-  <a href="https://s1d.is-a.dev/resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/RESUME-0B1220?style=for-the-badge&logo=readdotcv&logoColor=64FFDA"></a>
-  <a href="https://www.linkedin.com/in/siddhant-rai21"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=64FFDA"></a>
-  <a href="mailto:siddhant.rai.5686@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=64FFDA"></a>
+  <sub>Generated from the GitHub API. The workflow refreshes it only when the data changes.</sub>
 </p>
 
-<p align="center">
-  I build reliable software at the intersection of backend systems, developer tooling,<br>
-  observability, and AI infrastructure.
-</p>
-
-<p align="center">
-  <code>Python</code>&nbsp;&nbsp;
-  <code>Go</code>&nbsp;&nbsp;
-  <code>TypeScript</code>&nbsp;&nbsp;
-  <code>FastAPI</code>&nbsp;&nbsp;
-  <code>Node.js</code>&nbsp;&nbsp;
-  <code>PostgreSQL</code>&nbsp;&nbsp;
-  <code>Redis</code>&nbsp;&nbsp;
-  <code>Docker</code>&nbsp;&nbsp;
-  <code>OpenTelemetry</code>
-</p>
-
-## 01 / Current signal
-
-```text
-focus     reliable backend systems, AI infrastructure, and production observability
-building  outcome-aware agent workflows with explicit cost, evidence, and guardrails
-shipping  open-source improvements across data, authorization, and agent tooling
-open to   backend and software engineering roles in India or remote
-```
-
-## 02 / Selected systems
+## `~/things-i-have-been-cooking`
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/siiddhantt/margintrace">MarginTrace</a></h3>
-      <p>Outcome economics and runtime guardrails for AI workflows. Connects verified results, model and tool cost, retry waste, and pre-spend policy through OpenTelemetry and SigNoz.</p>
-      <p><code>TypeScript</code> <code>OpenTelemetry</code> <code>SigNoz</code></p>
-      <a href="https://margintrace-nu.vercel.app">Live console</a>
+      <h3><a href="https://github.com/siiddhantt/mizaaj">Mizaaj</a> <sup><a href="https://mizaaj-ai.vercel.app">demo</a></sup></h3>
+      <p>A private fit-memory assistant grounded in product evidence, personal preferences, and real purchase outcomes.</p>
+      <code>Python</code> <code>FastAPI</code> <code>Postgres</code> <code>Cognee</code>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/siiddhantt/reefwatch">ReefWatch</a></h3>
-      <p>A Coral-powered investigation workspace that discovers production sources at runtime, queries evidence through read-only SQL, and produces defensible incident reports.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>Coral MCP</code></p>
-      <a href="https://reefwatch-coral.vercel.app">Live workspace</a>
+      <h3><a href="https://github.com/siiddhantt/margintrace">MarginTrace</a> <sup><a href="https://margintrace-nu.vercel.app">demo</a></sup></h3>
+      <p>Measures verified outcomes, cost, waste, and policy decisions across AI workflows.</p>
+      <code>TypeScript</code> <code>OTel</code> <code>SigNoz</code>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/siiddhantt/buildmedic">BuildMedic</a></h3>
-      <p>A read-only, multi-agent CI failure assistant that turns noisy GitHub Actions failures into evidence-backed diagnoses, minimal patch proposals, and review verdicts.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>SQLite</code></p>
-      <a href="https://github.com/siiddhantt/buildmedic#demo-path">Demo path</a>
+      <h3><a href="https://github.com/siiddhantt/reefwatch">ReefWatch</a> <sup><a href="https://reefwatch-coral.vercel.app">demo</a></sup></h3>
+      <p>Investigates incidents across production sources through runtime discovery and read-only SQL.</p>
+      <code>Python</code> <code>Coral</code> <code>MCP</code>
     </td>
   </tr>
 </table>
 
-## 03 / Open-source footprint
+## `~/open-source-side-quests`
 
-<p>
-  <strong>100+ public merged pull requests</strong> across product engineering, data connectors,
-  authorization, observability, and agent infrastructure.
-</p>
-
-| Project | Signal | Engineering work |
-| :-- | --: | :-- |
-| [DocsGPT](https://github.com/arc53/DocsGPT) | **75 merged PRs** | Agent tooling, ingestion connectors, APIs, accessibility, and full-stack product delivery |
-| [Coral](https://github.com/withcoral/coral) | **6 merged PRs** | Google Docs, Drive, Search Console, OSV, and Netlify data sources plus validation hardening |
-| [OLake](https://github.com/datazip-inc/olake) | **3 merged PRs** | SSH support for DB2 and MSSQL, MySQL SSL configuration, and Oracle sync progress tracking |
-| [OpenFGA](https://github.com/openfga/openfga) | **2 merged PRs** | Thread-safe request cloning and more flexible tuple filtering |
-| [mcp-use](https://github.com/mcp-use/mcp-use) | **2 merged PRs** | Custom OpenAI-compatible provider URLs and explicit test dependencies |
+- taught [Coral](https://github.com/withcoral/coral) to speak to more APIs and live data sources
+- made [OLake](https://github.com/datazip-inc/olake) database connectors friendlier to real infrastructure
+- tightened concurrency and tuple filtering in [OpenFGA](https://github.com/openfga/openfga)
+- improved provider compatibility and test hygiene in [mcp-use](https://github.com/mcp-use/mcp-use)
+- shipped a lot of agent, ingestion, API, and product work in [DocsGPT](https://github.com/arc53/DocsGPT)
 
 <p align="right">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Asiiddhantt+is%3Amerged">Explore all merged pull requests -&gt;</a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Asiiddhantt+is%3Amerged">all merged pull requests -&gt;</a>
 </p>
 
-## 04 / How I engineer
+## `~/toolbox`
 
-```mermaid
-flowchart LR
-    A[Ambiguous problem] --> B[Explicit boundaries]
-    B --> C[Small verifiable slices]
-    C --> D[Production evidence]
-    D --> E[Reliable system]
-    E --> F[Measure and improve]
+```text
+languages   Python / Go / TypeScript / JavaScript
+backend     FastAPI / Node.js / REST / GraphQL / event-driven systems
+data        PostgreSQL / Redis / MongoDB / SQLite
+shipping    Docker / Kubernetes / AWS / GitHub Actions
+signals     OpenTelemetry / SigNoz / traces / logs / metrics
 ```
 
-- I prefer proof over claims: runnable systems, merged patches, tests, traces, and documented tradeoffs.
-- I design for failure paths, operator visibility, and safe defaults before calling a feature complete.
-- I enjoy codebases where product behavior, infrastructure, and developer experience meet.
-
 <details>
-  <summary><strong>More things I have built</strong></summary>
+  <summary><strong>when I am not coding</strong></summary>
   <br>
 
-  - [Mizaaj](https://github.com/siiddhantt/mizaaj): private AI fit-memory with grounded recall, evidence capture, and purchase outcomes.
-  - [SigNoz HTTP 200 Failure Lab](https://github.com/siiddhantt/signoz-http-200-failure-lab): a runnable OpenTelemetry lab for business failures hidden behind successful transport responses.
-  - [GitHitBox](https://github.com/siiddhantt/githitbox): a reusable GitHub profile hit-counter service that returns badge images.
+  Mostly watching films, listening to music, or playing video games.
 </details>
-
-<br>
-
-<p align="center">
-  <strong>Building something difficult, useful, and operationally real?</strong><br>
-  <a href="mailto:siddhant.rai.5686@gmail.com">siddhant.rai.5686@gmail.com</a>
-</p>
-
-<p align="center">
-  <sub>Designed as an engineering profile, not a badge collection.</sub>
-</p>
