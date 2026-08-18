@@ -6,7 +6,7 @@ I'm a software engineer working mostly on backend systems and developer tools.
 
 I spent the last few years building DocsGPT and contributing to open-source projects
 around data, authorization, and AI infrastructure. I mostly work in Python, Go, and
-TypeScript, and prefer small teams where engineering decisions stay close to the product.
+TypeScript, and prefer teams where engineering decisions stay close to the product.
 
 <br clear="right">
 
