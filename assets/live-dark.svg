@@ -105,7 +105,7 @@
   <line x1="219" y1="478" x2="219" y2="546" stroke="#45454a" stroke-opacity="0.4" class="pixel"/>
   <line x1="272" y1="478" x2="272" y2="546" stroke="#45454a" stroke-opacity="0.4" class="pixel"/>
   <line x1="325" y1="478" x2="325" y2="546" stroke="#45454a" stroke-opacity="0.4" class="pixel"/>
-  <polyline points="60,529 113,537 166,491 219,530 272,511 325,536" fill="none" stroke="#43d17a" stroke-width="3" stroke-linejoin="miter" stroke-linecap="square" class="pixel"/>
+  <polyline points="60,529 113,537 166,491 219,530 272,511 325,534" fill="none" stroke="#43d17a" stroke-width="3" stroke-linejoin="miter" stroke-linecap="square" class="pixel"/>
   <rect x="57" y="526" width="7" height="7" fill="#43d17a" class="pixel"/>
   <text x="60" y="522" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">11</text>
   <text x="60" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Mar</text>
@@ -121,8 +121,8 @@
   <rect x="269" y="508" width="7" height="7" fill="#43d17a" class="pixel"/>
   <text x="272" y="504" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">28</text>
   <text x="272" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Jul</text>
-  <rect x="322" y="533" width="7" height="7" fill="#43d17a" class="pixel"/>
-  <text x="325" y="529" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">4</text>
+  <rect x="322" y="531" width="7" height="7" fill="#43d17a" class="pixel"/>
+  <text x="325" y="527" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">6</text>
   <text x="325" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Aug</text>
   <rect x="370" y="196" width="809" height="382" fill="#121214" class="pixel"/>
   <path d="M371 577V197H1178" stroke="#09090b" stroke-width="3" fill="none" class="pixel"/>
