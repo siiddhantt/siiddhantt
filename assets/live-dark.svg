@@ -191,6 +191,6 @@
   <text x="36" y="618" fill="#f4f4f4" class="ui" font-size="16">4 featured repositories  |  86 merged pull requests</text>
   <rect x="762" y="600" width="11" height="10" fill="#b8a6ff" class="pixel"/>
   <path d="M757 620V613H778V620" fill="#b8a6ff" class="pixel"/>
-  <text x="788" y="618" fill="#f4f4f4" class="ui" font-size="16">24 followers</text>
+  <text x="788" y="618" fill="#f4f4f4" class="ui" font-size="16">22 followers</text>
   <text x="958" y="618" fill="#f4f4f4" class="ui" font-size="16">github.com/siiddhantt</text>
 </svg>
