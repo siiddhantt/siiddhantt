@@ -83,7 +83,7 @@
   <rect x="47" y="254" width="24" height="18" fill="#dfdfdf" stroke="#ffffff" class="pixel"/>
   <rect x="53" y="273" width="24" height="5" fill="#dfdfdf" stroke="#ffffff" class="pixel"/>
   <text x="89" y="276" fill="#ffffff" class="ui" font-size="19" font-weight="700">My GitHub</text>
-  <text x="48" y="326" fill="#000080" class="ui" font-size="24" font-weight="700">42</text>
+  <text x="48" y="326" fill="#000080" class="ui" font-size="24" font-weight="700">44</text>
   <text x="102" y="326" fill="#000000" class="ui" font-size="18">Public repositories</text>
   <text x="48" y="368" fill="#000080" class="ui" font-size="24" font-weight="700">109</text>
   <text x="102" y="368" fill="#000000" class="ui" font-size="18">Merged pull requests</text>
@@ -105,7 +105,7 @@
   <line x1="219" y1="478" x2="219" y2="546" stroke="#dfdfdf" stroke-opacity="0.4" class="pixel"/>
   <line x1="272" y1="478" x2="272" y2="546" stroke="#dfdfdf" stroke-opacity="0.4" class="pixel"/>
   <line x1="325" y1="478" x2="325" y2="546" stroke="#dfdfdf" stroke-opacity="0.4" class="pixel"/>
-  <polyline points="60,529 113,537 166,491 219,530 272,511 325,534" fill="none" stroke="#008000" stroke-width="3" stroke-linejoin="miter" stroke-linecap="square" class="pixel"/>
+  <polyline points="60,529 113,537 166,491 219,530 272,511 325,498" fill="none" stroke="#008000" stroke-width="3" stroke-linejoin="miter" stroke-linecap="square" class="pixel"/>
   <rect x="57" y="526" width="7" height="7" fill="#008000" class="pixel"/>
   <text x="60" y="522" text-anchor="middle" fill="#000000" class="ui" font-size="11">11</text>
   <text x="60" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Mar</text>
@@ -121,8 +121,8 @@
   <rect x="269" y="508" width="7" height="7" fill="#008000" class="pixel"/>
   <text x="272" y="504" text-anchor="middle" fill="#000000" class="ui" font-size="11">28</text>
   <text x="272" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Jul</text>
-  <rect x="322" y="531" width="7" height="7" fill="#008000" class="pixel"/>
-  <text x="325" y="527" text-anchor="middle" fill="#000000" class="ui" font-size="11">6</text>
+  <rect x="322" y="495" width="7" height="7" fill="#008000" class="pixel"/>
+  <text x="325" y="491" text-anchor="middle" fill="#000000" class="ui" font-size="11">40</text>
   <text x="325" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Aug</text>
   <rect x="370" y="196" width="809" height="382" fill="#ffffff" class="pixel"/>
   <path d="M371 577V197H1178" stroke="#404040" stroke-width="3" fill="none" class="pixel"/>
