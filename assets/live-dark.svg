@@ -83,7 +83,7 @@
   <rect x="47" y="254" width="24" height="18" fill="#45454a" stroke="#ffffff" class="pixel"/>
   <rect x="53" y="273" width="24" height="5" fill="#45454a" stroke="#ffffff" class="pixel"/>
   <text x="89" y="276" fill="#ffffff" class="ui" font-size="19" font-weight="700">My GitHub</text>
-  <text x="48" y="326" fill="#b8a6ff" class="ui" font-size="24" font-weight="700">49</text>
+  <text x="48" y="326" fill="#b8a6ff" class="ui" font-size="24" font-weight="700">50</text>
   <text x="102" y="326" fill="#f4f4f4" class="ui" font-size="18">Public repositories</text>
   <text x="48" y="368" fill="#b8a6ff" class="ui" font-size="24" font-weight="700">120</text>
   <text x="102" y="368" fill="#f4f4f4" class="ui" font-size="18">Merged pull requests</text>
