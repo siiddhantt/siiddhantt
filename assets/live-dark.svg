@@ -85,7 +85,7 @@
   <text x="89" y="276" fill="#ffffff" class="ui" font-size="19" font-weight="700">My GitHub</text>
   <text x="48" y="326" fill="#b8a6ff" class="ui" font-size="24" font-weight="700">50</text>
   <text x="102" y="326" fill="#f4f4f4" class="ui" font-size="18">Public repositories</text>
-  <text x="48" y="368" fill="#b8a6ff" class="ui" font-size="24" font-weight="700">120</text>
+  <text x="48" y="368" fill="#b8a6ff" class="ui" font-size="24" font-weight="700">121</text>
   <text x="102" y="368" fill="#f4f4f4" class="ui" font-size="18">Merged pull requests</text>
   <text x="48" y="410" fill="#b8a6ff" class="ui" font-size="24" font-weight="700">22</text>
   <text x="102" y="410" fill="#f4f4f4" class="ui" font-size="18">External codebases</text>
@@ -105,25 +105,25 @@
   <line x1="219" y1="478" x2="219" y2="546" stroke="#45454a" stroke-opacity="0.4" class="pixel"/>
   <line x1="272" y1="478" x2="272" y2="546" stroke="#45454a" stroke-opacity="0.4" class="pixel"/>
   <line x1="325" y1="478" x2="325" y2="546" stroke="#45454a" stroke-opacity="0.4" class="pixel"/>
-  <polyline points="60,536 113,539 166,523 219,536 272,530 325,491" fill="none" stroke="#43d17a" stroke-width="3" stroke-linejoin="miter" stroke-linecap="square" class="pixel"/>
-  <rect x="57" y="533" width="7" height="7" fill="#43d17a" class="pixel"/>
-  <text x="60" y="529" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">11</text>
-  <text x="60" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Mar</text>
-  <rect x="110" y="536" width="7" height="7" fill="#43d17a" class="pixel"/>
-  <text x="113" y="532" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">3</text>
-  <text x="113" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Apr</text>
-  <rect x="163" y="520" width="7" height="7" fill="#43d17a" class="pixel"/>
-  <text x="166" y="516" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">47</text>
-  <text x="166" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">May</text>
-  <rect x="216" y="533" width="7" height="7" fill="#43d17a" class="pixel"/>
-  <text x="219" y="529" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">10</text>
-  <text x="219" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Jun</text>
-  <rect x="269" y="527" width="7" height="7" fill="#43d17a" class="pixel"/>
-  <text x="272" y="523" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">28</text>
-  <text x="272" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Jul</text>
-  <rect x="322" y="488" width="7" height="7" fill="#43d17a" class="pixel"/>
-  <text x="325" y="486" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">132</text>
-  <text x="325" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Aug</text>
+  <polyline points="60,539 113,523 166,536 219,530 272,491 325,540" fill="none" stroke="#43d17a" stroke-width="3" stroke-linejoin="miter" stroke-linecap="square" class="pixel"/>
+  <rect x="57" y="536" width="7" height="7" fill="#43d17a" class="pixel"/>
+  <text x="60" y="532" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">3</text>
+  <text x="60" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Apr</text>
+  <rect x="110" y="520" width="7" height="7" fill="#43d17a" class="pixel"/>
+  <text x="113" y="516" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">47</text>
+  <text x="113" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">May</text>
+  <rect x="163" y="533" width="7" height="7" fill="#43d17a" class="pixel"/>
+  <text x="166" y="529" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">10</text>
+  <text x="166" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Jun</text>
+  <rect x="216" y="527" width="7" height="7" fill="#43d17a" class="pixel"/>
+  <text x="219" y="523" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">28</text>
+  <text x="219" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Jul</text>
+  <rect x="269" y="488" width="7" height="7" fill="#43d17a" class="pixel"/>
+  <text x="272" y="486" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">132</text>
+  <text x="272" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Aug</text>
+  <rect x="322" y="537" width="7" height="7" fill="#43d17a" class="pixel"/>
+  <text x="325" y="533" text-anchor="middle" fill="#f4f4f4" class="ui" font-size="11">1</text>
+  <text x="325" y="567" text-anchor="middle" fill="#b8b8bd" class="ui" font-size="12">Sep</text>
   <rect x="370" y="196" width="809" height="382" fill="#121214" class="pixel"/>
   <path d="M371 577V197H1178" stroke="#09090b" stroke-width="3" fill="none" class="pixel"/>
   <path d="M1178 197V577H371" stroke="#68686f" stroke-width="3" fill="none" class="pixel"/>
@@ -176,9 +176,9 @@
   <path d="M381 567V448H1168" stroke="#09090b" stroke-width="3" fill="none" class="pixel"/>
   <path d="M1168 448V567H381" stroke="#68686f" stroke-width="3" fill="none" class="pixel"/>
   <text x="396" y="472" fill="#b8b8bd" class="ui" font-size="14" font-weight="700">Latest merged patch</text>
-  <text x="396" y="499" fill="#b8a6ff" class="ui" font-size="19" font-weight="700">datazip-inc/olake #959</text>
-  <text x="1148" y="499" text-anchor="end" fill="#b8b8bd" class="ui" font-size="14">Aug 26, 2026</text>
-  <text x="396" y="526" fill="#f4f4f4" class="ui" font-size="16">feat: implement 2PC support in parquet writer</text>
+  <text x="396" y="499" fill="#b8a6ff" class="ui" font-size="19" font-weight="700">agentrust-io/integrations #147</text>
+  <text x="1148" y="499" text-anchor="end" fill="#b8b8bd" class="ui" font-size="14">Aug 31, 2026</text>
+  <text x="396" y="526" fill="#f4f4f4" class="ui" font-size="16">docs: complete framework coverage matrix</text>
   <rect x="21" y="585" width="720" height="52" fill="#303034" class="pixel"/>
   <path d="M22 636V586H740" stroke="#09090b" stroke-width="3" fill="none" class="pixel"/>
   <path d="M740 586V636H22" stroke="#68686f" stroke-width="3" fill="none" class="pixel"/>
