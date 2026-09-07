@@ -85,7 +85,7 @@
   <text x="89" y="276" fill="#ffffff" class="ui" font-size="19" font-weight="700">My GitHub</text>
   <text x="48" y="326" fill="#000080" class="ui" font-size="24" font-weight="700">49</text>
   <text x="102" y="326" fill="#000000" class="ui" font-size="18">Public repositories</text>
-  <text x="48" y="368" fill="#000080" class="ui" font-size="24" font-weight="700">117</text>
+  <text x="48" y="368" fill="#000080" class="ui" font-size="24" font-weight="700">118</text>
   <text x="102" y="368" fill="#000000" class="ui" font-size="18">Merged pull requests</text>
   <text x="48" y="410" fill="#000080" class="ui" font-size="24" font-weight="700">22</text>
   <text x="102" y="410" fill="#000000" class="ui" font-size="18">External codebases</text>
@@ -122,7 +122,7 @@
   <text x="272" y="486" text-anchor="middle" fill="#000000" class="ui" font-size="11">78</text>
   <text x="272" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Aug</text>
   <rect x="322" y="504" width="7" height="7" fill="#008000" class="pixel"/>
-  <text x="325" y="500" text-anchor="middle" fill="#000000" class="ui" font-size="11">52</text>
+  <text x="325" y="500" text-anchor="middle" fill="#000000" class="ui" font-size="11">53</text>
   <text x="325" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Sep</text>
   <rect x="370" y="196" width="809" height="382" fill="#ffffff" class="pixel"/>
   <path d="M371 577V197H1178" stroke="#404040" stroke-width="3" fill="none" class="pixel"/>
@@ -155,7 +155,7 @@
   </g>
   <text x="424" y="320" fill="#000000" class="ui" font-size="19" font-weight="700">Coral</text>
   <text x="790" y="320" fill="#000000" class="ui" font-size="17">Data source integrations</text>
-  <text x="1021" y="320" fill="#000000" class="ui" font-size="16">6 PRs</text>
+  <text x="1021" y="320" fill="#000000" class="ui" font-size="16">7 PRs</text>
   <g class="pixel">
     <rect x="390" y="349" width="11" height="6" fill="#f6d66b" stroke="#9b7824"/>
     <rect x="387" y="354" width="25" height="18" fill="#f6d66b" stroke="#9b7824"/>
@@ -176,9 +176,9 @@
   <path d="M381 567V448H1168" stroke="#404040" stroke-width="3" fill="none" class="pixel"/>
   <path d="M1168 448V567H381" stroke="#ffffff" stroke-width="3" fill="none" class="pixel"/>
   <text x="396" y="472" fill="#4a4a4a" class="ui" font-size="14" font-weight="700">Latest merged patch</text>
-  <text x="396" y="499" fill="#000080" class="ui" font-size="19" font-weight="700">agentrust-io/integrations #147</text>
-  <text x="1148" y="499" text-anchor="end" fill="#4a4a4a" class="ui" font-size="14">Aug 31, 2026</text>
-  <text x="396" y="526" fill="#000000" class="ui" font-size="16">docs: complete framework coverage matrix</text>
+  <text x="396" y="499" fill="#000080" class="ui" font-size="19" font-weight="700">withcoral/coral #1220</text>
+  <text x="1148" y="499" text-anchor="end" fill="#4a4a4a" class="ui" font-size="14">Sep 7, 2026</text>
+  <text x="396" y="526" fill="#000000" class="ui" font-size="16">feat(sources): support OAuth client credentials</text>
   <rect x="21" y="585" width="720" height="52" fill="#c0c0c0" class="pixel"/>
   <path d="M22 636V586H740" stroke="#404040" stroke-width="3" fill="none" class="pixel"/>
   <path d="M740 586V636H22" stroke="#ffffff" stroke-width="3" fill="none" class="pixel"/>
@@ -188,7 +188,7 @@
   <rect x="939" y="585" width="240" height="52" fill="#c0c0c0" class="pixel"/>
   <path d="M940 636V586H1178" stroke="#404040" stroke-width="3" fill="none" class="pixel"/>
   <path d="M1178 586V636H940" stroke="#ffffff" stroke-width="3" fill="none" class="pixel"/>
-  <text x="36" y="618" fill="#000000" class="ui" font-size="16">4 featured repositories  |  87 merged pull requests</text>
+  <text x="36" y="618" fill="#000000" class="ui" font-size="16">4 featured repositories  |  88 merged pull requests</text>
   <rect x="762" y="600" width="11" height="10" fill="#000080" class="pixel"/>
   <path d="M757 620V613H778V620" fill="#000080" class="pixel"/>
   <text x="788" y="618" fill="#000000" class="ui" font-size="16">23 followers</text>
