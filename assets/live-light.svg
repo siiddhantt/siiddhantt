@@ -105,25 +105,25 @@
   <line x1="219" y1="478" x2="219" y2="546" stroke="#dfdfdf" stroke-opacity="0.4" class="pixel"/>
   <line x1="272" y1="478" x2="272" y2="546" stroke="#dfdfdf" stroke-opacity="0.4" class="pixel"/>
   <line x1="325" y1="478" x2="325" y2="546" stroke="#dfdfdf" stroke-opacity="0.4" class="pixel"/>
-  <polyline points="60,538 113,510 166,534 219,522 272,491 325,506" fill="none" stroke="#008000" stroke-width="3" stroke-linejoin="miter" stroke-linecap="square" class="pixel"/>
-  <rect x="57" y="535" width="7" height="7" fill="#008000" class="pixel"/>
-  <text x="60" y="531" text-anchor="middle" fill="#000000" class="ui" font-size="11">3</text>
-  <text x="60" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Apr</text>
-  <rect x="110" y="507" width="7" height="7" fill="#008000" class="pixel"/>
-  <text x="113" y="503" text-anchor="middle" fill="#000000" class="ui" font-size="11">47</text>
-  <text x="113" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">May</text>
-  <rect x="163" y="531" width="7" height="7" fill="#008000" class="pixel"/>
-  <text x="166" y="527" text-anchor="middle" fill="#000000" class="ui" font-size="11">10</text>
-  <text x="166" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Jun</text>
-  <rect x="216" y="519" width="7" height="7" fill="#008000" class="pixel"/>
-  <text x="219" y="515" text-anchor="middle" fill="#000000" class="ui" font-size="11">28</text>
-  <text x="219" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Jul</text>
-  <rect x="269" y="488" width="7" height="7" fill="#008000" class="pixel"/>
-  <text x="272" y="486" text-anchor="middle" fill="#000000" class="ui" font-size="11">78</text>
-  <text x="272" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Aug</text>
-  <rect x="322" y="503" width="7" height="7" fill="#008000" class="pixel"/>
-  <text x="325" y="499" text-anchor="middle" fill="#000000" class="ui" font-size="11">54</text>
-  <text x="325" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Sep</text>
+  <polyline points="60,510 113,534 166,522 219,491 272,506 325,540" fill="none" stroke="#008000" stroke-width="3" stroke-linejoin="miter" stroke-linecap="square" class="pixel"/>
+  <rect x="57" y="507" width="7" height="7" fill="#008000" class="pixel"/>
+  <text x="60" y="503" text-anchor="middle" fill="#000000" class="ui" font-size="11">47</text>
+  <text x="60" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">May</text>
+  <rect x="110" y="531" width="7" height="7" fill="#008000" class="pixel"/>
+  <text x="113" y="527" text-anchor="middle" fill="#000000" class="ui" font-size="11">10</text>
+  <text x="113" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Jun</text>
+  <rect x="163" y="519" width="7" height="7" fill="#008000" class="pixel"/>
+  <text x="166" y="515" text-anchor="middle" fill="#000000" class="ui" font-size="11">28</text>
+  <text x="166" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Jul</text>
+  <rect x="216" y="488" width="7" height="7" fill="#008000" class="pixel"/>
+  <text x="219" y="486" text-anchor="middle" fill="#000000" class="ui" font-size="11">78</text>
+  <text x="219" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Aug</text>
+  <rect x="269" y="503" width="7" height="7" fill="#008000" class="pixel"/>
+  <text x="272" y="499" text-anchor="middle" fill="#000000" class="ui" font-size="11">54</text>
+  <text x="272" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Sep</text>
+  <rect x="322" y="537" width="7" height="7" fill="#008000" class="pixel"/>
+  <text x="325" y="533" text-anchor="middle" fill="#000000" class="ui" font-size="11">0</text>
+  <text x="325" y="567" text-anchor="middle" fill="#4a4a4a" class="ui" font-size="12">Oct</text>
   <rect x="370" y="196" width="809" height="382" fill="#ffffff" class="pixel"/>
   <path d="M371 577V197H1178" stroke="#404040" stroke-width="3" fill="none" class="pixel"/>
   <path d="M1178 197V577H371" stroke="#ffffff" stroke-width="3" fill="none" class="pixel"/>
